@@ -15,6 +15,8 @@
    ***Un documento html è strutturato da un "head" in cui vi sono alcuni elementi identificativi, non visibili nel browser, del sito come il "title" e il "body", il corpo del sito i cui elementi verrano visualizzati dl browser.
 
 6. Qual è la differenza tra un elemento e un tag?
+   ***La differenza sta nel fatto che il tag definisce l'inizio e la fine di uno o più elementi. Mentre l'elemento è la parte all'interno di un tag che ne definisce le caratteristiche. 
+
 7. Come si inseriscono i commenti in un documento HTML?
    *** I commenti, in un documento html, si inseriscono con "<--!commento-->".
 
@@ -67,13 +69,21 @@
    ***In html una tabella la si crea con elemento <table> </table>, al cui interno si trovano <tr> per le righe, <th> per l'intestazione della colonna e <td> per i dati di una cella.
 
 23. Qual è la differenza tra `thead`, `tbody` e `tfoot` in una tabella?
-   ***
+   ***La differenza tra i 3 elementi sta nel fatto che il thead è usata per le righe di intestazione, il tbody contiene le righe principali della tabella e il tfoot contiene le note a piè di pagina della tabella.
 
 
 24. Come si può migliorare l'accessibilità in una pagina HTML?
+    ***Ci sono vari metodi per migliorare l'accessibilità in una pagina HTML, come usare bene ed in maniera strutturata i vari tag dell'HTML, l'utilizzo di testo alternativo per le immagini, un corretto utilizzo e dei moduli e una buona strutturalizzazione, un buon uso degli ARIA (Accessible Rich Internet Applications), una buona leggibilità del testo, ordine cronologico del contenuto, adattabilità del testo, accessibilità del testo e tesing del sito per controllare l'accessibilità del sito con strumenti tipo WAVE (Web Accessibility Evaluation Tool) o Lighthouse.
+
 25. Che cos'è ARIA in HTML e a cosa serve?
+   ***Aria in HTMl sta per Accessible Rich Internet Applications e serve a migliorare l'accessibilità delle applicazioni web per le persone con disabilità.
+
 26. Come si crea un modulo in HTML?
+   ***Il modulo, in HTML, si crea tramite il tag <form></form> che racchiude dentro di se gli elementi input del form. 
+
 27. Quali sono i vari tipi di input che si possono usare in un modulo HTML?
+   
+
 28. Che cos'è il metodo GET rispetto al metodo POST in un modulo?
 29. Come si può validare l'input del modulo in HTML5?
 30. Che cos'è e come si utilizza il canvas in HTML?
