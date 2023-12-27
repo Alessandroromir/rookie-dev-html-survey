@@ -82,18 +82,41 @@
    ***Il modulo, in HTML, si crea tramite il tag <form></form> che racchiude dentro di se gli elementi input del form. 
 
 27. Quali sono i vari tipi di input che si possono usare in un modulo HTML?
-   
+   I tipi di input in un modilo html sono: il text, la password, email, il number, il checkbox, il radio button, textarea, il select, il file imput, submit button, il reset button e l'hidden button.
 
 28. Che cos'è il metodo GET rispetto al metodo POST in un modulo?
+   ***Il metodo get
+
 29. Come si può validare l'input del modulo in HTML5?
+   ***Si può validare il modulo in HTML5 con vari attributi che sono: required, pattern, min e max, type, novalidate, etc.
+
 30. Che cos'è e come si utilizza il canvas in HTML?
+   ***Il tag <canvas> in HTML fornisce uno spazio per disegnare grafica tramite script, di solito JavaScript. 
+
 31. Quali sono le nuove caratteristiche introdotte in HTML5?
+   ***Le caratteristiche che innovano HTML5 sono elementi semantici come <header>, <footer>, <article>, <section>, <nav>, <figure>, <figcaption>. Elementi multimediali come <audio> e <video>. Elementi grafici come <svg>, Api di geolocalizzazione, elementi di web Storage come sessionStorage e localStorage per consentire ai siti web di archiviare dati in modo persistente o di sessione lato client.
+   Elementi API che consentono l'esecuzione di script in background. Utilizzo di WebSocket, che fornisce una comunicazione bidirezionale e full-duplex tra il browser e il server .Nuovi tipi di input come <input type="date">, <input type="email">, <input type="url">, e altri. Aggiunta di attributi di validazione dei form, come required e pattern.API di drag-and-drop per trascinamento e il rilascio di elementi con l'aggiunta di API di drag-and-drop. API di notifica che consentono ai siti web di inviare notifiche push al dispositivo dell'utente.
+
 32. Che cos'è il web storage in HTML5?
+    ***Il Web Storage in HTML5 è una tecnologia che consente ai siti web di archiviare dati localmente sul dispositivo di un utente. Ci sono 2 tipi di Web storage: Local storage e Session storage.
+
 33. Che cos'è e come si utilizza l'elemento `<datalist>` in HTML?
+    ***L'elemento <datalist> in HTML è un elenco di opzioni predefinite per un elemento di input <input> e serve per fornire suggerimenti o opzioni per aiutare gli utenti durante l'inserimento dei dati in un campo di input.
+
+
 34. Come si può incorporare un file SVG in una pagina HTML?
+    ***Un elemento SVG si può incorporare in una pagina HTML tramite i tag <svg> o <img>
+
 35. Qual è la differenza tra `cookies`, `sessionStorage` e `localStorage`?
+    ***la principale differenza tra questi tre meccanismi risiede nella durata di conservazione dei dati e nella portata dell'accesso.
+
 36. Che cos'è la geolocalizzazione in HTML5 e come si utilizza?
+    ***La geolocalizzazione in HTML5 è una funzionalità che consente ai browser web di ottenere informazioni sulla posizione geografica dell'utente attraverso il dispositivo che sta utilizzando. Per utilizzare la geolocalizzazione in HTML5, è possibile utilizzare l'API di geolocalizzazione che è integrata nei browser moderni.
+
+
 37. Che cos'è il drag-and-drop in HTML5 e come si implementa?
+   ***Il "drag-and-drop" in HTML5 si riferisce alla capacità di trascinare elementi HTML da una posizione e rilasciarli in un'altra all'interno di una pagina web. Per implementare il drag and drop in HTML5, è necessario utilizzare l'API di Drag and Drop fornita nativamente dal browser.
+
 38. Come si può implementare la paginazione in un documento HTML?
 39. Che cosa sono le meta tag e a cosa servono?
 40. Come si imposta il charset in un documento HTML?
